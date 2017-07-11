@@ -26,7 +26,8 @@ This tutorial will acquaint the first-time user of SciPy with some of its most
 important features. It assumes that the user has already installed the SciPy
 package. Some general Python facility is also assumed, such as could be
 acquired by working through the Python distribution's Tutorial. For further
-introductory help the user is directed to the Numpy documentation.
+introductory help the user is directed to the NumPy documentation:
+https://docs.scipy.org/doc/numpy/.
 
 For brevity and convenience, we will often assume that the main
 packages (numpy, scipy, and matplotlib) have been imported as::
